@@ -5,8 +5,8 @@
 - 📫 How to reach me : https://t.me/KidFromKonoha
 - 😄 Pronouns: Mohan
 - ⚡ Fun fact: i like biology as well
+### 📊 GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-prabhu&show_icons=true&theme=radical)](https://github.com/iam-prabhu)
 
-<!---
-KidFromKonoha/KidFromKonoha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Visitor Count](https://komarev.com/ghpvc/?username=iam-prabhu&color=blue)
+
