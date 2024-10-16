@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KidFromKonoha
 - 👀 I’m interested in web , cloud , AI and NN
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on some interesting web projects
 - 📫 How to reach me : https://t.me/KidFromKonoha
 - 😄 Pronouns: Mohan
