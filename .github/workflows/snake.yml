@@ -1,29 +1,17 @@
 name: Generate Snake
 
 on:
-  schedule:
-    # Runs the workflow every day at midnight
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+  workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
-      # Check out the repository
-      - name: Checkout the repository
-        uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-      # Generate the snake
       - name: Generate Snake
         uses: Platane/snk@v2.2.1
         with:
-          github_user_name: KidFromKonoha  # Ensure your GitHub username is correct
-
-      # Push the snake.svg file to the output branch
-      - name: Push Snake to the output branch
-        uses: actions/upload-artifact@v3
-        with:
-          name: contribution-snake
-          path: ./dist/snake.svg  # Path where the snake file is generated
+          github_user_name: KidFromKonoha  # Your GitHub username
+          outputs: ./snake.svg               # Specify output file path
