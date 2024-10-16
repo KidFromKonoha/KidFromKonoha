@@ -1,8 +1,8 @@
 name: Generate Snake
 
 on:
-  schedule: 
-    # Runs the workflow every day at midnight
+  schedule:
+    # Runs at midnight every day
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -17,11 +17,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
-          github_user_name: KidFromKonoha  # Ensure this is correct
-          outputs: dist/snake.svg
-
-      - name: Create output folder
-        run: mkdir -p dist  # Ensure the output directory is created
+          github_user_name: KidFromKonoha  # Make sure this is correct
 
       - name: Push Snake to the output branch
         uses: peaceiris/actions-gh-pages@v3
