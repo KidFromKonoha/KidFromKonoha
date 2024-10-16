@@ -14,6 +14,7 @@
 ![GitHub Contribution Snake](https://github.com/KidFromKonoha/KidFromKonoha/blob/output/github-contribution-grid-snake.svg)
 
 
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KidFromKonoha&theme=dark)
 
 
