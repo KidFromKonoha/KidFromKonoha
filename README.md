@@ -7,12 +7,21 @@
 - ⚡ Fun fact: i like biology as well
 ### 📊 GitHub Stats
 
-![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KidFromKonoha&show_icons=true&theme=tokyonight)
+![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KidFromKonoha&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KidFromKonoha&theme=radical)
+
+![GitHub Contribution Snake](https://github.com/KidFromKonoha/KidFromKonoha/blob/output/github-contribution-grid-snake.svg)
+
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KidFromKonoha&theme=dark)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KidFromKonoha&layout=compact&theme=radical)
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=iam-prabhu&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=KidFromKonoha&color=yellow)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
