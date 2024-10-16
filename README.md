@@ -6,7 +6,13 @@
 - 😄 Pronouns: Mohan
 - ⚡ Fun fact: i like biology as well
 ### 📊 GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-prabhu&show_icons=true&theme=radical)](https://github.com/iam-prabhu)
+
+![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KidFromKonoha&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KidFromKonoha&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KidFromKonoha&layout=compact&theme=radical)
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=iam-prabhu&color=blue)
 
