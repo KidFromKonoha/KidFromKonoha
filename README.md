@@ -1,6 +1,10 @@
-<h1 align="center">Hey there! I'm Mohan 👋</h1>
-<h3 align="center">a.k.a <code>@KidFromKonoha</code> 🌀</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=250&section=header&text=Hey%20There!%20I'm%20Mohan%20👋&fontSize=40&fontColor=ffffff&desc=a.k.a%20%40KidFromKonoha&descAlign=50&descAlignY=68&fontAlign=50" />
+</p>
 
+
+
+ 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=600&lines=Code.+Create.+Conquer.;CS+Student+%7C+Web+Dev+%7C+Cloud+Explorer+%7C+AI+Rookie;Backend+Alchemist+%7C+Frontend+Stylist;Debugging+Ninja+%7C+Design+Dreamer;Here+to+build+the+next+cool+thing+..." alt="Typing SVG" />
 </p>
@@ -97,8 +101,9 @@ Currently:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=180&section=footer&fontColor=ffffff&text=Thanks%20for%20scrolling%20%E2%9D%A4%EF%B8%8F&fontSize=20" />
 </p>
+
 
 <p align="center" style="color: gray;">
   "Good design is powerful. Great design is invisible."
