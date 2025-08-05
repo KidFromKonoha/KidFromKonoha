@@ -11,13 +11,18 @@
 
 ---
 
-### 🧠 About Me
-I'm a 3rd-year CSE student at <strong>OUTR Bhubaneswar</strong>, passionate about turning futuristic ideas into smooth and meaningful digital experiences.
+### 🧠 About Me  
+> _"Code is my medium. The internet is my canvas."_  
 
-- 🔧 Working on REST APIs, user authentication & full-stack platforms
-- 🧠 Learning OAuth, Docker, DevOps & scalable infra
-- 💭 Designing seamless UIs and architecting stable backends
-- 🧪 Secret Flex: Typing without looking. Yep.
+I'm a **3rd-year CSE student at OUTR Bhubaneswar**, building meaningful stuff at the intersection of **Web Development**, **AI**, and **Machine Learning** — with a soft spot for **Biology** and how it inspires everything from neural networks to natural design.
+
+Currently:
+- 🔧 Crafting full-stack apps that actually solve real problems  
+- 🧠 Exploring **Neural Networks**, **GenAI**, and modern ML workflows  
+- 🧬 Fascinated by the synergy between **tech & life sciences**  
+- 🚧 New projects are brewing... **follow for the drop** 👀  
+
+
 
 ---
 
