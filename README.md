@@ -50,12 +50,6 @@ I'm a 3rd-year CSE student at <strong>OUTR Bhubaneswar</strong>, passionate abou
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KidFromKonoha/KidFromKonoha/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ### 📬 Contact Me
 <p align="center">
