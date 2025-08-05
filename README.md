@@ -45,8 +45,9 @@ I'm a 3rd-year CSE student at <strong>OUTR Bhubaneswar</strong>, passionate abou
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KidFromKonoha&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KidFromKonoha&theme=tokyo-night&area=true&hide_border=true&radius=10&custom_title=⚡%20Code.%20Debug.%20Deploy.%20Repeat." />
 </p>
+
 
 ---
 
